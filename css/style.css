@@ -710,9 +710,24 @@ ul.padding_left2 li img {
      transition: ease-in all 0.5s;
 }
 
+/** catálogo **/
+
+.catalogo h2{
+     font-size: 40px;
+     color: #3e3e3e;
+     line-height: 57px;
+     font-weight: bold;
+     padding: 0;
+     padding-bottom: 20px;
+}
+
+.catalogo tr, th, td{
+     text-align: center;
+}
+
+/** end catálogo **/
 
 /** footer **/
-
 .multi {
      color: #046c58;
 }
