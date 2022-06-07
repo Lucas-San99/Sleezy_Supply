@@ -406,6 +406,7 @@ button {
 .our_two_box {
      box-shadow: #ddd 0px 0px 10px 0px;
      margin-bottom: 90px;
+     border-radius: 10px 0px 0px 10px;
 }
 
 .our_text_box {
