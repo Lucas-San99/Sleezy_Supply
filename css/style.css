@@ -385,6 +385,22 @@ button {
      padding-bottom: 20px;
 }
 
+.media-whatsapp a:hover  {
+     color: #edc811;
+   }
+
+.footer-social a:hover  {
+     color: #edc811;
+}
+
+.media-email a:hover {
+     color: #edc811;
+}
+
+.media-fisico a:hover {
+     color: #edc811;  
+}
+
 .d_flex {
      display: flex;
      align-items: center;
