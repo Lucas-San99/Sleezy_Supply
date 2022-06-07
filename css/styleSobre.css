@@ -375,14 +375,14 @@ button {
      text-align: center;
      padding-bottom: 50px;
      color: #3c3c3c;
-     
+
 }
 
-.media-whatsapp a:hover  {
+.media-whatsapp a:hover {
      color: #edc811;
-   }
+}
 
-.footer-social a:hover  {
+.footer-social a:hover {
      color: #edc811;
 }
 
@@ -391,11 +391,11 @@ button {
 }
 
 .media-fisico a:hover {
-     color: #edc811;  
+     color: #edc811;
 }
 
 .adress a:hover {
-     color: #edc811;  
+     color: #edc811;
 }
 
 
@@ -431,7 +431,7 @@ button {
      box-shadow: #ddd 0px 0px 10px 0px;
      margin-bottom: 90px;
      text-align: center;
-     
+
 }
 
 .our_text_box {
@@ -740,7 +740,7 @@ ul.padding_left2 li img {
 
 /** catálogo **/
 
-.catalogo h2{
+.catalogo h2 {
      font-size: 40px;
      color: #3e3e3e;
      line-height: 57px;
@@ -749,7 +749,9 @@ ul.padding_left2 li img {
      padding-bottom: 20px;
 }
 
-.catalogo tr, th, td{
+.catalogo tr,
+th,
+td {
      text-align: center;
 }
 

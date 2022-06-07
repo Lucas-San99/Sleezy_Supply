@@ -385,11 +385,11 @@ button {
      padding-bottom: 20px;
 }
 
-.media-whatsapp a:hover  {
+.media-whatsapp a:hover {
      color: #edc811;
-   }
+}
 
-.footer-social a:hover  {
+.footer-social a:hover {
      color: #edc811;
 }
 
@@ -398,7 +398,7 @@ button {
 }
 
 .media-fisico a:hover {
-     color: #edc811;  
+     color: #edc811;
 }
 
 .d_flex {
@@ -729,7 +729,7 @@ ul.padding_left2 li img {
 
 /** catálogo **/
 
-.catalogo h2{
+.catalogo h2 {
      font-size: 40px;
      color: #3e3e3e;
      line-height: 57px;
@@ -738,7 +738,9 @@ ul.padding_left2 li img {
      padding-bottom: 20px;
 }
 
-.catalogo tr, th, td{
+.catalogo tr,
+th,
+td {
      text-align: center;
 }
 
